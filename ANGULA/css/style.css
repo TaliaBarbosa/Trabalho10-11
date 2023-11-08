@@ -1,0 +1,89 @@
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*body{
+    background-color:#778899 ;
+
+}*/
+.pagina1{
+    background-color: #5F9EA0;
+    width: 100%;
+    height: 7vh;
+    margin-top: 1vh;
+}
+.pagina1 ul {
+    display: flex;
+    flex-direction: row;
+    margin-left: 50vh;
+    
+}
+.pagina1 ul li{
+    padding: 15px 100px;
+    font-size: 3vh;
+    letter-spacing: 9px;
+}
+.card ul{
+    margin-left: 0.1vh;
+ 
+
+    
+
+}
+.card ul li img{
+    width: 50vh;
+    height: 50vh;
+    margin-top: 1vh;
+    padding: 15px 15px;
+    border-bottom: solid 1vh #5F9EA0;
+    font-size: large;
+   
+}
+
+.CaixaLista{
+    margin-top: 9vh;
+    background-color: #708090;
+    height: 40vh;
+    width: 100%;
+    border: solid 0.6vh #5F9EA0;
+   
+   
+}
+.ElementoLista{
+    color: black;
+    padding: 6.5vh;
+    letter-spacing: 9px;
+    border-bottom: solid 0.4vh #5F9EA0;
+    
+    
+}
+.CorPadrao{
+    background-color: 	#B0E0E6;
+    
+}
+.CorPadrao:hover{
+    background-color:#87CEFA;
+
+}
+.Coralt{
+    background-color:white;
+
+}
+.Coralt:hover{
+    background-color: #B0E0E6;
+}
+.dialog{
+  
+    height: 20vh;
+    width: 100%;
+   
+    color:black;
+    font-family: arial;
+    padding: 2vh;
+    text-align: center;
+    margin-top: 10vh;
+  
+}
