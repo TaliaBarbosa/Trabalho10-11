@@ -5,10 +5,10 @@
     box-sizing: border-box;
 }
 
-/*body{
-    background-color:#778899 ;
+ body{
+    background-color:#ADD8E6;
 
-}*/
+}
 .pagina1{
     background-color: #5F9EA0;
     width: 100%;
@@ -37,9 +37,10 @@
     width: 50vh;
     height: 50vh;
     margin-top: 1vh;
-    padding: 15px 15px;
-    border-bottom: solid 1vh #5F9EA0;
-    font-size: large;
+    padding: 5px 5px;
+    border: 25px solid #5F9EA0 ;
+    
+    
    
 }
 
