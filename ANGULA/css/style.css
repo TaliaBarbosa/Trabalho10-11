@@ -11,14 +11,14 @@
 }
 .pagina1{
     background-color: #5F9EA0;
-    width: 100%;
+    width: 120%;
     height: 7vh;
     margin-top: 1vh;
 }
 .pagina1 ul {
     display: flex;
     flex-direction: row;
-    margin-left: 50vh;
+    margin-left: 95vh;
     
 }
 .pagina1 ul li{
@@ -85,6 +85,34 @@
     font-family: arial;
     padding: 2vh;
     text-align: center;
-    margin-top: 10vh;
+    margin-top: 19vh;
   
 }
+.banner{
+    height: 20vh;
+    width: 50vh;
+    background-color: #5F9EA0;
+    margin-left:6.1%;
+}
+.banner1{
+    height: 20vh;
+    width: 50vh;
+    background-color: #5F9EA0;
+    margin-left:38%;
+}
+.banner2{
+    height: 20vh;
+    width: 50vh;
+    background-color: #5F9EA0;
+    margin-left:69.5%;
+}
+
+
+
+
+
+
+
+
+
+

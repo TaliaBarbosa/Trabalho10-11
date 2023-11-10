@@ -2,21 +2,18 @@ document.getElementById("banner").addEventListener("click",()=>{
     document.getElementsByClassName("card")[0].innerHTML+= "<div class='banner'"+
     "<article><h1>Cardeira</h1><h3>ROSA</h3></article></div>"
 
-    document.getElementById("banner").remove()
 })
 
 document.getElementById("banner1").addEventListener("click",()=>{
     document.getElementsByClassName("card")[0].innerHTML+= "<div class='banner1'"+
     "<article><h1>Cardeira</h1><h3>ROSA</h3></article></div>"
    
-    document.getElementById("banner1").remove()
 })
 
 document.getElementById("banner2").addEventListener("click",()=>{
     document.getElementsByClassName("card")[0].innerHTML+= "<div class='banner2'"+
     "<article><h1>Cardeira</h1><h3>ROSA</h3></article></div>"
    
-    document.getElementById("banner2").remove()
 })
 
 
