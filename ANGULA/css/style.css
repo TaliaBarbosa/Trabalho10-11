@@ -28,6 +28,7 @@
 }
 .card ul{
     margin-left: 0.1vh;
+    
  
 
     
@@ -39,6 +40,7 @@
     margin-top: 1vh;
     padding: 5px 5px;
     border: 25px solid #5F9EA0 ;
+    width: 259px;
     
     
    
@@ -70,7 +72,7 @@
 
 }
 .Coralt{
-    background-color:white;
+    background-color:#20B2AA;
 
 }
 .Coralt:hover{
@@ -89,22 +91,22 @@
   
 }
 .banner{
-    height: 20vh;
+    height: 30vh;
     width: 50vh;
     background-color: #5F9EA0;
     margin-left:6.1%;
 }
 .banner1{
-    height: 20vh;
+    height: 30vh;
     width: 50vh;
     background-color: #5F9EA0;
-    margin-left:38%;
+    margin-left:34.6%;
 }
 .banner2{
-    height: 20vh;
+    height: 30vh;
     width: 50vh;
     background-color: #5F9EA0;
-    margin-left:69.5%;
+    margin-left:63%;
 }
 
 

@@ -1,18 +1,18 @@
 document.getElementById("banner").addEventListener("click",()=>{
     document.getElementsByClassName("card")[0].innerHTML+= "<div class='banner'"+
-    "<article><h1>Cardeira</h1><h3>ROSA</h3></article></div>"
+    "<article><h1>Navio Cruzeiro</h1><h3>A principal característica do cruzeiro é atracar em diferentes portos por algumas horas, o que permite conhecer vários lugares em poucos dias. Os itinerários podem durar de 3 a 100 dias.</h3></article></div>"
 
 })
 
 document.getElementById("banner1").addEventListener("click",()=>{
     document.getElementsByClassName("card")[0].innerHTML+= "<div class='banner1'"+
-    "<article><h1>Cardeira</h1><h3>ROSA</h3></article></div>"
+    "<article><h1>Navio de  tanque</h1><h3>O navio tanque é o utilizado para o transporte de substâncias líquidas. É um tipo de navio projetado e construído para transportar a granel qualquer produto líquido.</h3></article></div>"
    
 })
 
 document.getElementById("banner2").addEventListener("click",()=>{
     document.getElementsByClassName("card")[0].innerHTML+= "<div class='banner2'"+
-    "<article><h1>Cardeira</h1><h3>ROSA</h3></article></div>"
+    "<article><h1>navio porta-contêineres</h1><h3>O Container, também conhecido como Contêiner ou contentor, é utilizado para transportar a carga nos processos de Importação e Exportação.</h3></article></div>"
    
 })
 
